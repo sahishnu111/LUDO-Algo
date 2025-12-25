@@ -1,0 +1,11 @@
+build/
+cmake-build-debug/
+.idea/
+.vscode/
+bin/
+obj/
+*.o
+*.out
+Ludo_Server
+Ludo_Benchmark
+.DS_Store
